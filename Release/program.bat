@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -c SWD UR -P "H743-eval_netdistiller-misrac-mobilenet_v2_experiment.bin"  0x08000000 -V -HardRst
